@@ -1,4 +1,4 @@
-(module KF350 (layer F.Cu) (tedit 62BA1AB5)
+(module KF350 (layer F.Cu) (tedit 62D1650B)
   (fp_text reference J (at 0 5.08) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )
@@ -12,6 +12,10 @@
   (fp_line (start 0 1.905) (end 0 3.175) (layer F.SilkS) (width 0.4))
   (fp_line (start 3.5 1.905) (end 3.5 3.175) (layer F.SilkS) (width 0.4))
   (fp_line (start -3.5 1.905) (end -3.5 3.175) (layer F.SilkS) (width 0.4))
+  (fp_line (start -5.35 -3.4) (end -5.35 3.6) (layer F.CrtYd) (width 0.2))
+  (fp_line (start -5.35 3.6) (end 5.35 3.6) (layer F.CrtYd) (width 0.2))
+  (fp_line (start 5.347986 3.563671) (end 5.347986 -3.436329) (layer F.CrtYd) (width 0.2))
+  (fp_line (start 5.347986 -3.436329) (end -5.352014 -3.436329) (layer F.CrtYd) (width 0.2))
   (pad 1 thru_hole circle (at -3.5 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 3.5 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
