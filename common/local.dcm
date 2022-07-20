@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AC-03-3
+D 220VAC to 12VDC Mini Power Supply
+K Mini Power Supply
+F https://cdn.shopify.com/s/files/1/1509/1638/files/220V_zu_12V_Mini_Netzteil_Datenblatt_AZ-Delivery_Vertriebs_GmbH_rev1_97886bce-8e7d-4536-95dd-f1716f2cfc82.pdf?v=1620718292
+$ENDCMP
+#
+$CMP AC-12-3
+D 220VAC to 12VDC Mini Power Supply
+K Mini Power Supply
+F https://cdn.shopify.com/s/files/1/1509/1638/files/220V_zu_12V_Mini_Netzteil_Datenblatt_AZ-Delivery_Vertriebs_GmbH_rev1_97886bce-8e7d-4536-95dd-f1716f2cfc82.pdf?v=1620718292
+$ENDCMP
+#
+$CMP Fuse
+D Fuse
+K fuse
+F ~
+$ENDCMP
+#
+#End Doc Library
