@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model HLK-PM03
+#/2314532/922065/2.49/4/4/Power Supply
+DEF HLK-PM03 PS 0 30 Y Y 1 F N
+F0 "PS" 950 300 50 H V L CNN
+F1 "HLK-PM03" 950 200 50 H V L CNN
+F2 "HLKPM03" 950 100 50 H I L CNN
+F3 "https://datasheet.lcsc.com/szlcsc/1906201102_HI-LINK-HLK-PM03_C209904.pdf" 950 0 50 H I L CNN
+F4 "Power Module AC-DC Through Hole RoHS" 950 -100 50 H I L CNN "Description"
+F5 "15" 950 -200 50 H I L CNN "Height"
+F6 "" 950 -300 50 H I L CNN "Chipmall Part Number"
+F7 "" 950 -400 50 H I L CNN "Chipmall Price/Stock"
+F8 "Hi-Link" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "HLK-PM03" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X AC_1 1 0 0 200 R 50 50 0 0 P
+X AC_2 2 0 -100 200 R 50 50 0 0 P
+X -V0 3 1100 0 200 L 50 50 0 0 P
+X +V0 4 1100 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

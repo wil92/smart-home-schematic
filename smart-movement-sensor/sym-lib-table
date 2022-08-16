@@ -1,2 +1,3 @@
 (sym_lib_table
+  (lib (name "local")(type "Legacy")(uri "C:/Users/gonzalez.ext/Documents/KiCadProjects/smart-home-schematic/common/local.lib")(options "")(descr ""))
 )

@@ -1,0 +1,20 @@
+(footprint "Mounting_HOLES" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f27c3cae-49c0-4ac6-8974-eccd6232ea9c)
+  )
+  (fp_text value "Mounting_HOLES" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 69ee35ff-bd8d-4b57-ad68-0fb37185002f)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 663dff3e-725c-43ee-b9b9-e6ee54ca39be)
+  )
+  (fp_rect (start -27.051 -13.843) (end 27.051 13.843) (layer "Dwgs.User") (width 0.12) (fill none) (tstamp ce206244-8626-4a8a-b8d0-bd383f97820e))
+  (pad "" np_thru_hole circle (at -24.2 10.8) (size 2.2 2.2) (drill 2.2) (layers F&B.Cu *.Mask) (tstamp c64e4af3-a9b9-47f7-a62a-faece1cb79cb))
+  (pad "" np_thru_hole circle (at 19.6 -10.8) (size 2.2 2.2) (drill 2.2) (layers F&B.Cu *.Mask) (tstamp fbde8432-d6f1-4116-8cb6-f176158e86af))
+)
