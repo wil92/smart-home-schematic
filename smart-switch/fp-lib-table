@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/../common/footprints.pretty")(options "")(descr ""))
   (lib (name "HLK-PM03")(type "KiCad")(uri "C:/Users/gonzalez.ext/Documents/KiCadProjects/smart-home-schematic/common/HLK-PM03")(options "")(descr ""))
+  (lib (name "smart-home-schematic")(type "KiCad")(uri "C:/Users/gonzalez.ext/Documents/KiCadProjects/smart-home-schematic")(options "")(descr ""))
 )
